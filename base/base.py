@@ -15,7 +15,7 @@ class Base:
         log.info('[base]:正在获取初始化driver对象：{}'.format(driver))
         self.driver = driver;
 
-    # 获取元素方法封装
+    # 获取元素方法封装 WebDriverWait(driver, timeout, poll_frequency=POLL_FREQUENCY, ignored_exceptions=None)
     def base_find(self, loc, timeout=30, poll=0.5):
         log.info('[base:]:正在定位:{}元素，定位位超时时间：{}'.format(loc, timeout))
         return WebDriverWait(self.driver, timeout, poll).until(lambda x: x.find_element(*loc))  # 使用*表示参数解耦  driver.find_element(*loc) <==>driver.find_element（By.xxx,value)
