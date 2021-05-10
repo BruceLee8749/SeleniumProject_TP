@@ -18,7 +18,7 @@ class Base:
     # 获取元素方法封装
     def base_find(self, loc, timeout=30, poll=0.5):
         log.info('[base:]:正在定位:{}元素，定位位超时时间：{}'.format(loc, timeout))
-        return WebDriverWait(self.driver, timeout=timeout, poll_frequency=poll).until(lambda x: x.find_element(*loc))  # 使用*表示参数解耦  driver.find_element(*loc) <==>driver.find_element（By.xxx,value)
+        return WebDriverWait(self.driver, timeout, poll).until(lambda x: x.find_element(*loc))  # 使用*表示参数解耦  driver.find_element(*loc) <==>driver.find_element（By.xxx,value)
 
     # 点击元素方法封装
     def base_click(self, loc):

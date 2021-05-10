@@ -3024,3 +3024,54 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1620686328283	mozrunner::runner	INFO	Running command: "D:\\Program Files\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mr.Lee\\AppData\\Local\\Temp\\rust_mozprofile0bJoGc"
+1620686330117	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620686333926	Marionette	INFO	Listening on port 54213
+1620686334105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620686335609	Marionette	INFO	Stopped listening on port 54213
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620686390720	mozrunner::runner	INFO	Running command: "D:\\Program Files\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mr.Lee\\AppData\\Local\\Temp\\rust_mozprofile1y5Y2x"
+1620686391856	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620686394676	Marionette	INFO	Listening on port 54278
+1620686394926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tp.shop.com/index.php, line 172: ReferenceError: $ is not defined
+JavaScript error: https://assets.shop.com/shop/famos/vue/static-vue-commons.js?cb=qo2ooFA, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://assets.shop.com/shop/famos/js/vendors/static-js-imports.js?cb=qo2ooFA, line 1: TypeError: e is undefined
+JavaScript error: https://assets.shop.com/shop/famos/js/vendors/static-js-vendors.js?cb=qo2ooFA, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://assets.shop.com/shop/famos/js/static-js-app.js?cb=qo2ooFA, line 1: ReferenceError: jQuery is not defined
+JavaScript warning: https://tp.shop.com/resources/min/js/famos-single-min.js?cb=3895518127FA, line 1: unreachable code after return statement
+JavaScript error: https://tp.shop.com/resources/min/js/famos-single-min.js?cb=3895518127FA, line 1: ReferenceError: $ is not defined
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:947:3
+
+1620686460420	Marionette	INFO	Stopped listening on port 54278
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620686863175	mozrunner::runner	INFO	Running command: "D:\\Program Files\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mr.Lee\\AppData\\Local\\Temp\\rust_mozprofileShQuH6"
+1620686864380	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620686867760	Marionette	INFO	Listening on port 55514
+1620686868021	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 20304, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1620686915853	Marionette	INFO	Stopped listening on port 55514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620686920734	mozrunner::runner	INFO	Running command: "D:\\Program Files\\firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mr.Lee\\AppData\\Local\\Temp\\rust_mozprofileEXLZuT"
+1620686922103	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620686925466	Marionette	INFO	Listening on port 55678
+1620686925570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620686956870	Marionette	INFO	Stopped listening on port 55678
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
