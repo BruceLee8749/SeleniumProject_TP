@@ -1,0 +1,572 @@
+2021-05-31 16:45:23,782 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="0480afe0-876b-4f69-9578-5cda116dc399")>
+2021-05-31 16:45:23,784 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 16:45:23,784 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 16:45:23,784 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 16:45:28,657 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 16:45:28,657 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 16:45:28,657 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:45:28,660 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 16:45:28,673 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 16:45:28,673 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 16:45:28,676 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 16:45:28,688 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 16:45:28,689 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 16:45:28,692 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 16:45:28,699 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 16:45:28,699 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 16:45:28,924 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 16:45:28,924 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 16:45:35,955 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '安全退出')元素，进行点击
+2021-05-31 16:45:35,955 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：30
+2021-05-31 16:45:41,074 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 16:45:41,074 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 16:45:51,630 - base.py[line:57] - INFO - [base:]:('partial link text', '安全退出')元素查找失败
+2021-05-31 16:45:51,632 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：1506228128，密码：123456，验证码：8888
+2021-05-31 16:45:51,632 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：1506228128操作
+2021-05-31 16:45:51,632 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:46:23,184 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281288，密码：123456，验证码：8888
+2021-05-31 16:46:23,184 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281288操作
+2021-05-31 16:46:23,184 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:46:34,378 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：1234568，验证码：8888
+2021-05-31 16:46:34,378 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 16:46:34,378 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:46:34,380 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8898
+2021-05-31 16:46:34,380 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 16:46:34,380 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:46:34,382 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281269，密码：1234563，验证码：88883
+2021-05-31 16:46:34,382 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281269操作
+2021-05-31 16:46:34,382 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:46:52,641 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="9a22bb04-af18-452f-80e4-2dad0956a95f")>
+2021-05-31 16:46:52,641 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 16:46:52,641 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 16:46:52,641 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 16:46:57,917 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 16:46:57,917 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 16:46:57,917 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:46:59,442 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 16:46:59,454 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 16:46:59,454 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 16:46:59,458 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 16:46:59,472 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 16:46:59,472 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 16:46:59,475 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 16:46:59,483 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 16:46:59,483 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 16:46:59,706 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 16:46:59,706 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 16:47:06,168 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '安全退出')元素，进行点击
+2021-05-31 16:47:06,168 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：30
+2021-05-31 16:47:11,402 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 16:47:11,402 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 16:47:11,406 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 16:47:11,406 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 16:47:11,406 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 16:47:20,489 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：1506228128，密码：123456，验证码：8888
+2021-05-31 16:47:20,489 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：1506228128操作
+2021-05-31 16:47:20,489 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:47:21,750 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 16:47:21,761 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 16:47:21,761 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 16:47:21,763 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 16:47:21,773 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 16:47:21,773 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 16:47:21,777 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 16:47:21,783 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 16:47:21,783 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 16:47:25,024 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.layui-layer-content')元素，获取文本
+2021-05-31 16:47:25,024 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-content')元素，定位位超时时间：30
+2021-05-31 16:47:25,029 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-btn0')元素，进行点击
+2021-05-31 16:47:25,029 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-btn0')元素，定位位超时时间：30
+2021-05-31 16:47:25,241 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281288，密码：123456，验证码：8888
+2021-05-31 16:47:25,241 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281288操作
+2021-05-31 16:47:25,241 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:47:25,243 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 16:47:25,251 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 16:47:25,251 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 16:47:25,253 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 16:47:25,262 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 16:47:25,262 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 16:47:25,265 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 16:47:25,273 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 16:47:25,274 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 16:47:28,499 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.layui-layer-content')元素，获取文本
+2021-05-31 16:47:28,499 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-content')元素，定位位超时时间：30
+2021-05-31 16:47:28,503 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-btn0')元素，进行点击
+2021-05-31 16:47:28,504 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-btn0')元素，定位位超时时间：30
+2021-05-31 16:47:28,715 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：1234568，验证码：8888
+2021-05-31 16:47:28,715 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 16:47:28,715 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:47:28,717 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 16:47:28,726 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：1234568操作
+2021-05-31 16:47:28,727 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 16:47:28,728 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 16:47:28,736 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 16:47:28,736 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 16:47:28,740 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 16:47:28,748 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 16:47:28,748 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 16:47:31,974 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.layui-layer-content')元素，获取文本
+2021-05-31 16:47:31,974 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-content')元素，定位位超时时间：30
+2021-05-31 16:47:31,979 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-btn0')元素，进行点击
+2021-05-31 16:47:31,979 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-btn0')元素，定位位超时时间：30
+2021-05-31 16:47:32,191 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8898
+2021-05-31 16:47:32,191 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 16:47:32,191 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:47:32,193 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 16:47:32,200 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 16:47:32,200 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 16:47:32,201 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 16:47:32,210 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8898操作
+2021-05-31 16:47:32,210 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 16:47:32,212 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 16:47:32,219 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 16:47:32,219 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 16:47:35,449 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.layui-layer-content')元素，获取文本
+2021-05-31 16:47:35,449 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-content')元素，定位位超时时间：30
+2021-05-31 16:47:35,454 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-btn0')元素，进行点击
+2021-05-31 16:47:35,454 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-btn0')元素，定位位超时时间：30
+2021-05-31 16:47:35,666 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281269，密码：1234563，验证码：88883
+2021-05-31 16:47:35,666 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281269操作
+2021-05-31 16:47:35,666 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:47:35,669 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 16:47:35,678 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：1234563操作
+2021-05-31 16:47:35,678 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 16:47:35,680 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 16:47:35,692 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：88883操作
+2021-05-31 16:47:35,692 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 16:47:35,694 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 16:47:35,702 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 16:47:35,702 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 16:47:38,940 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.layui-layer-content')元素，获取文本
+2021-05-31 16:47:38,940 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-content')元素，定位位超时时间：30
+2021-05-31 16:47:38,945 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-btn0')元素，进行点击
+2021-05-31 16:47:38,945 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-btn0')元素，定位位超时时间：30
+2021-05-31 16:47:49,978 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="77d547ea-36ea-4c6c-bc8e-2e56a4b2a7e6")>
+2021-05-31 16:47:49,978 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="77d547ea-36ea-4c6c-bc8e-2e56a4b2a7e6")>
+2021-05-31 16:47:49,979 - page_login.py[line:73] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 16:47:49,979 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 16:47:49,979 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 16:47:53,224 - base.py[line:57] - INFO - [base:]:('partial link text', '安全退出')元素查找失败
+2021-05-31 16:47:53,224 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 16:47:53,224 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 16:47:53,224 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 16:47:55,553 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 16:47:55,553 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:47:55,561 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 16:47:55,578 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 16:47:55,578 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 16:47:55,581 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 16:47:55,594 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 16:47:55,594 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 16:47:55,597 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 16:47:55,603 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 16:47:55,603 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 16:48:04,279 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#q')元素，定位位超时时间：30
+2021-05-31 16:48:04,343 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#q')元素，进行清空操作
+2021-05-31 16:48:04,361 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.ecsc-search-button')元素，进行点击
+2021-05-31 16:48:04,361 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.ecsc-search-button')元素，定位位超时时间：30
+2021-05-31 16:48:09,585 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.p-btn>a')元素，进行点击
+2021-05-31 16:48:09,585 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.p-btn>a')元素，定位位超时时间：30
+2021-05-31 16:48:11,845 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '#join_cart')元素，进行点击
+2021-05-31 16:48:11,846 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#join_cart')元素，定位位超时时间：30
+2021-05-31 16:48:34,237 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.conect-title>span')元素，获取文本
+2021-05-31 16:48:34,237 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.conect-title>span')元素，定位位超时时间：30
+2021-05-31 16:48:34,249 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-close')元素，进行点击
+2021-05-31 16:48:34,249 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-close')元素，定位位超时时间：30
+2021-05-31 16:48:37,476 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="77d547ea-36ea-4c6c-bc8e-2e56a4b2a7e6")>
+2021-05-31 16:48:37,476 - page_login.py[line:73] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 16:48:37,477 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 16:48:37,477 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 16:48:37,482 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="77d547ea-36ea-4c6c-bc8e-2e56a4b2a7e6")>
+2021-05-31 16:48:43,060 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.c-n')元素，进行点击
+2021-05-31 16:48:43,060 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.c-n')元素，定位位超时时间：30
+2021-05-31 16:48:47,782 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.checkCartAll')元素，定位位超时时间：30
+2021-05-31 16:48:47,787 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.gwc-qjs')元素，进行点击
+2021-05-31 16:48:47,787 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.gwc-qjs')元素，定位位超时时间：30
+2021-05-31 16:48:50,168 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.consignee>b')元素，定位位超时时间：30
+2021-05-31 16:48:52,716 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.Sub-orders')元素，进行点击
+2021-05-31 16:48:52,716 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.Sub-orders')元素，定位位超时时间：30
+2021-05-31 16:48:52,930 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.erhuh >h3')元素，获取文本
+2021-05-31 16:48:52,930 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.erhuh >h3')元素，定位位超时时间：30
+2021-05-31 16:49:14,938 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="d7122503-cb5c-4f75-b585-f68747d828fa")>
+2021-05-31 16:49:14,938 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="d7122503-cb5c-4f75-b585-f68747d828fa")>
+2021-05-31 16:49:14,938 - page_login.py[line:73] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 16:49:14,938 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 16:49:14,938 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 16:49:18,084 - base.py[line:57] - INFO - [base:]:('partial link text', '安全退出')元素查找失败
+2021-05-31 16:49:18,084 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 16:49:18,085 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 16:49:18,085 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 16:49:20,415 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 16:49:20,416 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 16:49:20,421 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 16:49:20,438 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 16:49:20,438 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 16:49:20,445 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 16:49:20,463 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 16:49:20,463 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 16:49:20,466 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 16:49:20,487 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 16:49:20,487 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 16:49:20,715 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '我的订单')元素，进行点击
+2021-05-31 16:49:20,715 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '我的订单')元素，定位位超时时间：30
+2021-05-31 16:49:27,354 - base.py[line:87] - INFO - [base:]:我的订单正在执行切换窗口方法，title值=
+2021-05-31 16:49:27,404 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.ps_lj')元素，进行点击
+2021-05-31 16:49:27,404 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.ps_lj')元素，定位位超时时间：30
+2021-05-31 16:49:30,487 - base.py[line:87] - INFO - [base:]:订单支付-开源商城 | B2C商城 | B2B2C商城 | 三级分销 | 免费商城 | 多用户商城 | tpshop｜thinkphp shop｜TPshop 免费开源系统 | 微商城正在执行切换窗口方法，title值=
+2021-05-31 16:49:30,538 - base.py[line:25] - INFO - [base:]:正在对:('css selector', 'img[src="/plugins/payment/cod/logo.jpg"]')元素，进行点击
+2021-05-31 16:49:30,538 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', 'img[src="/plugins/payment/cod/logo.jpg"]')元素，定位位超时时间：30
+2021-05-31 16:49:34,830 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.button-confirm-payment')元素，进行点击
+2021-05-31 16:49:34,830 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.button-confirm-payment')元素，定位位超时时间：30
+2021-05-31 16:49:45,961 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.erhuh>h3')元素，获取文本
+2021-05-31 16:49:45,961 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.erhuh>h3')元素，定位位超时时间：30
+2021-05-31 17:02:39,065 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="60e79098-d785-455a-ad5f-d2e0af59944a")>
+2021-05-31 17:02:39,066 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 17:02:39,066 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 17:02:39,066 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 17:02:44,328 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 17:02:44,329 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 17:02:44,329 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:02:46,358 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:02:46,370 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:02:46,370 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:02:46,373 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:02:46,382 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:02:46,382 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:02:46,384 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:02:46,390 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:02:46,390 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:02:46,604 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 17:02:46,604 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 17:02:53,348 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '安全退出')元素，进行点击
+2021-05-31 17:02:53,348 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：30
+2021-05-31 17:02:59,092 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 17:02:59,092 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 17:02:59,100 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 17:02:59,100 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 17:02:59,100 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 17:03:07,517 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：1506228128，密码：123456，验证码：8888
+2021-05-31 17:03:07,517 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：1506228128操作
+2021-05-31 17:03:07,517 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:03:09,026 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:03:09,039 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:03:09,039 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:03:09,042 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:03:09,058 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:03:09,058 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:03:09,060 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:03:09,069 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:03:09,069 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:03:12,312 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.layui-layer-content')元素，获取文本
+2021-05-31 17:03:12,312 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-content')元素，定位位超时时间：30
+2021-05-31 17:03:12,319 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281288，密码：123456，验证码：8888
+2021-05-31 17:03:12,319 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281288操作
+2021-05-31 17:03:12,319 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:03:12,321 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:03:12,350 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:03:12,350 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:03:12,355 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:03:12,371 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:03:12,371 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:03:12,374 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:03:12,402 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:03:12,403 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:03:12,414 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：1234568，验证码：8888
+2021-05-31 17:03:12,414 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 17:03:12,414 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:03:12,416 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:03:12,445 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：1234568操作
+2021-05-31 17:03:12,445 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:03:12,449 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:03:12,468 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:03:12,468 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:03:12,472 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:03:12,500 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:03:12,500 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:03:12,508 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8898
+2021-05-31 17:03:12,508 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 17:03:12,508 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:03:12,510 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:03:12,544 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:03:12,544 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:03:12,550 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:03:12,569 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8898操作
+2021-05-31 17:03:12,569 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:03:12,572 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:03:12,605 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:03:12,605 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:03:12,621 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281269，密码：1234563，验证码：88883
+2021-05-31 17:03:12,621 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281269操作
+2021-05-31 17:03:12,622 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:03:12,624 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:03:12,670 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：1234563操作
+2021-05-31 17:03:12,670 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:03:12,672 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:03:12,691 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：88883操作
+2021-05-31 17:03:12,691 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:03:12,694 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:03:12,724 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:03:12,725 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:03:23,611 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="8be53d6a-3434-46a2-8cf3-ae036eb3d99b")>
+2021-05-31 17:03:23,611 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="8be53d6a-3434-46a2-8cf3-ae036eb3d99b")>
+2021-05-31 17:03:23,611 - page_login.py[line:73] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 17:03:23,611 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 17:03:23,611 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 17:03:26,858 - base.py[line:57] - INFO - [base:]:('partial link text', '安全退出')元素查找失败
+2021-05-31 17:03:26,858 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 17:03:26,858 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 17:03:26,858 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 17:03:29,155 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 17:03:29,156 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:03:29,159 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:03:29,183 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:03:29,184 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:03:29,187 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:03:29,201 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:03:29,201 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:03:29,205 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:03:29,213 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:03:29,214 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:03:37,865 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#q')元素，定位位超时时间：30
+2021-05-31 17:03:37,901 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#q')元素，进行清空操作
+2021-05-31 17:03:37,921 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.ecsc-search-button')元素，进行点击
+2021-05-31 17:03:37,922 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.ecsc-search-button')元素，定位位超时时间：30
+2021-05-31 17:03:43,159 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.p-btn>a')元素，进行点击
+2021-05-31 17:03:43,159 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.p-btn>a')元素，定位位超时时间：30
+2021-05-31 17:03:44,974 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '#join_cart')元素，进行点击
+2021-05-31 17:03:44,974 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#join_cart')元素，定位位超时时间：30
+2021-05-31 17:04:07,488 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.conect-title>span')元素，获取文本
+2021-05-31 17:04:07,488 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.conect-title>span')元素，定位位超时时间：30
+2021-05-31 17:04:07,497 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-close')元素，进行点击
+2021-05-31 17:04:07,498 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-close')元素，定位位超时时间：30
+2021-05-31 17:04:10,728 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="8be53d6a-3434-46a2-8cf3-ae036eb3d99b")>
+2021-05-31 17:04:10,728 - page_login.py[line:73] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 17:04:10,728 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 17:04:10,728 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 17:04:10,733 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="8be53d6a-3434-46a2-8cf3-ae036eb3d99b")>
+2021-05-31 17:04:16,294 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.c-n')元素，进行点击
+2021-05-31 17:04:16,294 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.c-n')元素，定位位超时时间：30
+2021-05-31 17:04:20,924 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.checkCartAll')元素，定位位超时时间：30
+2021-05-31 17:04:20,943 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.gwc-qjs')元素，进行点击
+2021-05-31 17:04:20,943 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.gwc-qjs')元素，定位位超时时间：30
+2021-05-31 17:04:23,273 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.consignee>b')元素，定位位超时时间：30
+2021-05-31 17:04:27,844 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.Sub-orders')元素，进行点击
+2021-05-31 17:04:27,844 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.Sub-orders')元素，定位位超时时间：30
+2021-05-31 17:04:28,058 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.erhuh >h3')元素，获取文本
+2021-05-31 17:04:28,058 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.erhuh >h3')元素，定位位超时时间：30
+2021-05-31 17:04:50,466 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="9d02a7e4-a0e5-4dbc-95c0-c718653b9ac0")>
+2021-05-31 17:04:50,467 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="9d02a7e4-a0e5-4dbc-95c0-c718653b9ac0")>
+2021-05-31 17:04:50,467 - page_login.py[line:73] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 17:04:50,467 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 17:04:50,467 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 17:04:53,551 - base.py[line:57] - INFO - [base:]:('partial link text', '安全退出')元素查找失败
+2021-05-31 17:04:53,551 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 17:04:53,551 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 17:04:53,551 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 17:04:55,873 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 17:04:55,873 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:04:55,877 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:04:55,894 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:04:55,894 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:04:55,899 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:04:55,913 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:04:55,914 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:04:55,917 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:04:55,927 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:04:55,928 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:04:56,151 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '我的订单')元素，进行点击
+2021-05-31 17:04:56,151 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '我的订单')元素，定位位超时时间：30
+2021-05-31 17:05:02,880 - base.py[line:87] - INFO - [base:]:我的订单正在执行切换窗口方法，title值=
+2021-05-31 17:05:02,924 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.ps_lj')元素，进行点击
+2021-05-31 17:05:02,924 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.ps_lj')元素，定位位超时时间：30
+2021-05-31 17:05:05,495 - base.py[line:87] - INFO - [base:]:订单支付-开源商城 | B2C商城 | B2B2C商城 | 三级分销 | 免费商城 | 多用户商城 | tpshop｜thinkphp shop｜TPshop 免费开源系统 | 微商城正在执行切换窗口方法，title值=
+2021-05-31 17:05:05,546 - base.py[line:25] - INFO - [base:]:正在对:('css selector', 'img[src="/plugins/payment/cod/logo.jpg"]')元素，进行点击
+2021-05-31 17:05:05,546 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', 'img[src="/plugins/payment/cod/logo.jpg"]')元素，定位位超时时间：30
+2021-05-31 17:05:10,405 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.button-confirm-payment')元素，进行点击
+2021-05-31 17:05:10,406 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.button-confirm-payment')元素，定位位超时时间：30
+2021-05-31 17:05:21,168 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.erhuh>h3')元素，获取文本
+2021-05-31 17:05:21,168 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.erhuh>h3')元素，定位位超时时间：30
+2021-05-31 17:07:51,113 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="2dd82e4a-1b58-45d9-b65a-a9976fced3e6")>
+2021-05-31 17:07:51,113 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 17:07:51,114 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 17:07:51,114 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 17:07:56,385 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 17:07:56,385 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 17:07:56,385 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:07:57,909 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:07:57,922 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:07:57,922 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:07:57,925 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:07:57,940 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:07:57,940 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:07:57,943 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:07:57,950 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:07:57,950 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:07:58,171 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 17:07:58,171 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 17:08:04,772 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '安全退出')元素，进行点击
+2021-05-31 17:08:04,773 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：30
+2021-05-31 17:08:10,009 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 17:08:10,009 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 17:08:10,013 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 17:08:10,013 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 17:08:10,014 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 17:08:18,990 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：1506228128，密码：123456，验证码：8888
+2021-05-31 17:08:18,990 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：1506228128操作
+2021-05-31 17:08:18,991 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:08:20,253 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:08:20,264 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:08:20,264 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:08:20,267 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:08:20,280 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:08:20,280 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:08:20,283 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:08:20,293 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:08:20,293 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:08:23,526 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.layui-layer-content')元素，获取文本
+2021-05-31 17:08:23,526 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-content')元素，定位位超时时间：30
+2021-05-31 17:08:23,534 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-btn0')元素，进行点击
+2021-05-31 17:08:23,534 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-btn0')元素，定位位超时时间：30
+2021-05-31 17:08:23,759 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281288，密码：123456，验证码：8888
+2021-05-31 17:08:23,759 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281288操作
+2021-05-31 17:08:23,759 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:08:23,762 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:08:23,772 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:08:23,772 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:08:23,775 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:08:23,785 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:08:23,785 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:08:23,789 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:08:23,798 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:08:23,798 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:08:27,032 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.layui-layer-content')元素，获取文本
+2021-05-31 17:08:27,032 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-content')元素，定位位超时时间：30
+2021-05-31 17:08:27,038 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-btn0')元素，进行点击
+2021-05-31 17:08:27,038 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-btn0')元素，定位位超时时间：30
+2021-05-31 17:08:27,249 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：1234568，验证码：8888
+2021-05-31 17:08:27,249 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 17:08:27,249 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:08:27,252 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:08:27,263 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：1234568操作
+2021-05-31 17:08:27,263 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:08:27,266 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:08:27,276 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:08:27,276 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:08:27,279 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:08:27,289 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:08:27,289 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:08:30,523 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.layui-layer-content')元素，获取文本
+2021-05-31 17:08:30,523 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-content')元素，定位位超时时间：30
+2021-05-31 17:08:30,529 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-btn0')元素，进行点击
+2021-05-31 17:08:30,529 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-btn0')元素，定位位超时时间：30
+2021-05-31 17:08:30,739 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8898
+2021-05-31 17:08:30,739 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 17:08:30,739 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:08:30,743 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:08:30,752 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:08:30,752 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:08:30,756 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:08:30,765 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8898操作
+2021-05-31 17:08:30,765 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:08:30,767 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:08:30,777 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:08:30,777 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:08:34,012 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.layui-layer-content')元素，获取文本
+2021-05-31 17:08:34,012 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-content')元素，定位位超时时间：30
+2021-05-31 17:08:34,019 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-btn0')元素，进行点击
+2021-05-31 17:08:34,019 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-btn0')元素，定位位超时时间：30
+2021-05-31 17:08:34,229 - page_login.py[line:61] - INFO - [page_login]:正在执行登录操作 用户名：15062281269，密码：1234563，验证码：88883
+2021-05-31 17:08:34,230 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281269操作
+2021-05-31 17:08:34,230 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:08:34,233 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:08:34,242 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：1234563操作
+2021-05-31 17:08:34,243 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:08:34,245 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:08:34,256 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：88883操作
+2021-05-31 17:08:34,256 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:08:34,259 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:08:34,267 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:08:34,268 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:08:37,503 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.layui-layer-content')元素，获取文本
+2021-05-31 17:08:37,503 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-content')元素，定位位超时时间：30
+2021-05-31 17:08:37,509 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-btn0')元素，进行点击
+2021-05-31 17:08:37,509 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-btn0')元素，定位位超时时间：30
+2021-05-31 17:08:47,896 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="b8b06ade-e75a-4d20-901b-feab5b0bcb8f")>
+2021-05-31 17:08:47,897 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="b8b06ade-e75a-4d20-901b-feab5b0bcb8f")>
+2021-05-31 17:08:47,897 - page_login.py[line:73] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 17:08:47,897 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 17:08:47,897 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 17:08:50,941 - base.py[line:57] - INFO - [base:]:('partial link text', '安全退出')元素查找失败
+2021-05-31 17:08:50,942 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 17:08:50,942 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 17:08:50,942 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 17:08:53,244 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 17:08:53,245 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:08:53,250 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:08:53,267 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:08:53,268 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:08:53,273 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:08:53,289 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:08:53,289 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:08:53,294 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:08:53,314 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:08:53,314 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:09:01,984 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#q')元素，定位位超时时间：30
+2021-05-31 17:09:02,011 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#q')元素，进行清空操作
+2021-05-31 17:09:02,051 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.ecsc-search-button')元素，进行点击
+2021-05-31 17:09:02,051 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.ecsc-search-button')元素，定位位超时时间：30
+2021-05-31 17:09:07,304 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.p-btn>a')元素，进行点击
+2021-05-31 17:09:07,304 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.p-btn>a')元素，定位位超时时间：30
+2021-05-31 17:09:09,041 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '#join_cart')元素，进行点击
+2021-05-31 17:09:09,042 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#join_cart')元素，定位位超时时间：30
+2021-05-31 17:09:31,449 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.conect-title>span')元素，获取文本
+2021-05-31 17:09:31,450 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.conect-title>span')元素，定位位超时时间：30
+2021-05-31 17:09:31,462 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.layui-layer-close')元素，进行点击
+2021-05-31 17:09:31,462 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.layui-layer-close')元素，定位位超时时间：30
+2021-05-31 17:09:34,704 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="b8b06ade-e75a-4d20-901b-feab5b0bcb8f")>
+2021-05-31 17:09:34,704 - page_login.py[line:73] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 17:09:34,704 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 17:09:34,704 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 17:09:34,710 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="b8b06ade-e75a-4d20-901b-feab5b0bcb8f")>
+2021-05-31 17:16:39,355 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.c-n')元素，进行点击
+2021-05-31 17:16:39,355 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.c-n')元素，定位位超时时间：30
+2021-05-31 17:16:44,188 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.checkCartAll')元素，定位位超时时间：30
+2021-05-31 17:16:44,194 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.gwc-qjs')元素，进行点击
+2021-05-31 17:16:44,195 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.gwc-qjs')元素，定位位超时时间：30
+2021-05-31 17:16:46,800 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.consignee>b')元素，定位位超时时间：30
+2021-05-31 17:16:49,347 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.Sub-orders')元素，进行点击
+2021-05-31 17:16:49,347 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.Sub-orders')元素，定位位超时时间：30
+2021-05-31 17:16:50,084 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.erhuh >h3')元素，获取文本
+2021-05-31 17:16:50,084 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.erhuh >h3')元素，定位位超时时间：30
+2021-05-31 17:17:11,341 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="7c590688-85c0-480a-b241-e70bc45cf789")>
+2021-05-31 17:17:11,342 - base.py[line:15] - INFO - [base]:正在获取初始化driver对象：<selenium.webdriver.firefox.webdriver.WebDriver (session="7c590688-85c0-480a-b241-e70bc45cf789")>
+2021-05-31 17:17:11,342 - page_login.py[line:73] - INFO - [page_login]:正在执行登录操作 用户名：15062281268，密码：123456，验证码：8888
+2021-05-31 17:17:11,342 - base.py[line:53] - INFO - [base:]:('partial link text', '安全退出')元素查找成功
+2021-05-31 17:17:11,342 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '安全退出')元素，定位位超时时间：2
+2021-05-31 17:17:14,377 - base.py[line:57] - INFO - [base:]:('partial link text', '安全退出')元素查找失败
+2021-05-31 17:17:14,377 - page_login.py[line:16] - INFO - [page_login]:执行:('partial link text', '登录')点击链接操作
+2021-05-31 17:17:14,377 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '登录')元素，进行点击
+2021-05-31 17:17:14,377 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '登录')元素，定位位超时时间：30
+2021-05-31 17:17:16,667 - page_login.py[line:21] - INFO - [page_login]:对('css selector', '#username')元素输入用户名：15062281268操作
+2021-05-31 17:17:16,668 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#username')元素，定位位超时时间：30
+2021-05-31 17:17:16,673 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#username')元素，进行清空操作
+2021-05-31 17:17:16,689 - page_login.py[line:26] - INFO - [page_login]:对('css selector', '#password')元素输入密码：123456操作
+2021-05-31 17:17:16,689 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#password')元素，定位位超时时间：30
+2021-05-31 17:17:16,693 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#password')元素，进行清空操作
+2021-05-31 17:17:16,713 - page_login.py[line:31] - INFO - [page_login]:对('css selector', '#verify_code')元素输入验证码：8888操作
+2021-05-31 17:17:16,713 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '#verify_code')元素，定位位超时时间：30
+2021-05-31 17:17:16,721 - base.py[line:33] - INFO - [base:]:正在对:('css selector', '#verify_code')元素，进行清空操作
+2021-05-31 17:17:16,741 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.J-login-submit')元素，进行点击
+2021-05-31 17:17:16,741 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.J-login-submit')元素，定位位超时时间：30
+2021-05-31 17:17:16,976 - base.py[line:25] - INFO - [base:]:正在对:('partial link text', '我的订单')元素，进行点击
+2021-05-31 17:17:16,977 - base.py[line:20] - INFO - [base:]:正在定位:('partial link text', '我的订单')元素，定位位超时时间：30
+2021-05-31 17:17:23,590 - base.py[line:87] - INFO - [base:]:我的订单正在执行切换窗口方法，title值=
+2021-05-31 17:17:23,629 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.ps_lj')元素，进行点击
+2021-05-31 17:17:23,629 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.ps_lj')元素，定位位超时时间：30
+2021-05-31 17:17:26,707 - base.py[line:87] - INFO - [base:]:订单支付-开源商城 | B2C商城 | B2B2C商城 | 三级分销 | 免费商城 | 多用户商城 | tpshop｜thinkphp shop｜TPshop 免费开源系统 | 微商城正在执行切换窗口方法，title值=
+2021-05-31 17:17:26,759 - base.py[line:25] - INFO - [base:]:正在对:('css selector', 'img[src="/plugins/payment/cod/logo.jpg"]')元素，进行点击
+2021-05-31 17:17:26,759 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', 'img[src="/plugins/payment/cod/logo.jpg"]')元素，定位位超时时间：30
+2021-05-31 17:17:31,100 - base.py[line:25] - INFO - [base:]:正在对:('css selector', '.button-confirm-payment')元素，进行点击
+2021-05-31 17:17:31,100 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.button-confirm-payment')元素，定位位超时时间：30
+2021-05-31 17:17:41,885 - base.py[line:41] - INFO - [base:]:正在对:('css selector', '.erhuh>h3')元素，获取文本
+2021-05-31 17:17:41,885 - base.py[line:20] - INFO - [base:]:正在定位:('css selector', '.erhuh>h3')元素，定位位超时时间：30

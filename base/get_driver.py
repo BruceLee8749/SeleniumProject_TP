@@ -11,7 +11,7 @@ import page
 
 
 class GetDriver:
-    # 将driver变成类变量：通过类名.类变量 所有此类的实例均可以共享这一个driver并修改类变量。
+    # 将driver变成类变量：：类变量归所有类的对象共有
     driver = None
 
     @classmethod

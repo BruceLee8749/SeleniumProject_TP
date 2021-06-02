@@ -16,7 +16,7 @@ class TestOrder(unittest.TestCase):
     def setUp(self):
         # 获取driver
         self.driver = GetDriver().get_driver();
-        print(self.driver)
+        print("打印订单模块driver",self.driver)
         # 调用登录模块PageLogin对象中登录组合方法，直接登录
         PageLogin(self.driver).page_login_success()
         # 实例化PageOrder类

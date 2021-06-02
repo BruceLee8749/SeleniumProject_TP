@@ -14,6 +14,7 @@ class TestCart(unittest.TestCase):
     def setUp(self):
         # 获取driver
         self.driver = GetDriver().get_driver()
+        print("打印购物车模块driver", self.driver)
         # 实例化PageCart
         self.cart = PageCart(self.driver)
         # 调用登录组合业务方法直接登录
